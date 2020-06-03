@@ -6,6 +6,10 @@ AWS ElasticSearch managed service that used Lambda functions to import and parse
 
 Instructions located in documentation_final.docx
 
+## Team Members
+[@et94](https://github.com/Et94)
+[@lucmurakami](https://github.com/LucMurakami)
+
 ## References
 
 https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-gsg.html
